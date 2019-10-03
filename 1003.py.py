@@ -20,5 +20,4 @@ for i in range(T):
     print(zero, " ", one)
     zero = 0
     one = 0
-import sys
-sys.setrecursionlimit(n<41)
+
